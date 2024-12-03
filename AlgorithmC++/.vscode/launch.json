@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/bảo/OneDrive/Máy tính/TestPractice",
-      "program": "c:/Users/bảo/OneDrive/Máy tính/TestPractice/build/Debug/outDebug",
+      "cwd": "d:/CareerPath/Algorithm Practice/AlgorithmC++",
+      "program": "d:/CareerPath/Algorithm Practice/AlgorithmC++/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

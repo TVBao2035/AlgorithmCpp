@@ -1,0 +1,14 @@
+D:\CareerPath\Algorithm Practice\Sort\Test\Test\bin\Debug\net8.0\Test.exe
+D:\CareerPath\Algorithm Practice\Sort\Test\Test\bin\Debug\net8.0\Test.deps.json
+D:\CareerPath\Algorithm Practice\Sort\Test\Test\bin\Debug\net8.0\Test.runtimeconfig.json
+D:\CareerPath\Algorithm Practice\Sort\Test\Test\bin\Debug\net8.0\Test.dll
+D:\CareerPath\Algorithm Practice\Sort\Test\Test\bin\Debug\net8.0\Test.pdb
+D:\CareerPath\Algorithm Practice\Sort\Test\Test\obj\Debug\net8.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\CareerPath\Algorithm Practice\Sort\Test\Test\obj\Debug\net8.0\Test.AssemblyInfoInputs.cache
+D:\CareerPath\Algorithm Practice\Sort\Test\Test\obj\Debug\net8.0\Test.AssemblyInfo.cs
+D:\CareerPath\Algorithm Practice\Sort\Test\Test\obj\Debug\net8.0\Test.csproj.CoreCompileInputs.cache
+D:\CareerPath\Algorithm Practice\Sort\Test\Test\obj\Debug\net8.0\Test.dll
+D:\CareerPath\Algorithm Practice\Sort\Test\Test\obj\Debug\net8.0\refint\Test.dll
+D:\CareerPath\Algorithm Practice\Sort\Test\Test\obj\Debug\net8.0\Test.pdb
+D:\CareerPath\Algorithm Practice\Sort\Test\Test\obj\Debug\net8.0\Test.genruntimeconfig.cache
+D:\CareerPath\Algorithm Practice\Sort\Test\Test\obj\Debug\net8.0\ref\Test.dll
