@@ -1,0 +1,4 @@
+﻿  section_49.cpp
+D:\Algorithm2\section_49\section_49\section_49.cpp(10,9): error C2971: 'std::bitset': template parameter '_Bits': 'c': a variable with non-static storage duration cannot be used as a non-type argument
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\bitset(24): message : see declaration of 'std::bitset'
+D:\Algorithm2\section_49\section_49\section_49.cpp(8): message : see declaration of 'c'

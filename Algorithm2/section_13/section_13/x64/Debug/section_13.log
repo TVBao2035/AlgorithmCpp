@@ -1,0 +1,4 @@
+﻿  section_13.cpp
+C:\Users\bảo\OneDrive\Máy tính\Algorithm2\section_13\section_13\section_13.cpp(11,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\bảo\OneDrive\Máy tính\Algorithm2\section_13\section_13\section_13.cpp(13,55): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  section_13.vcxproj -> C:\Users\bảo\OneDrive\Máy tính\Algorithm2\section_13\x64\Debug\section_13.exe

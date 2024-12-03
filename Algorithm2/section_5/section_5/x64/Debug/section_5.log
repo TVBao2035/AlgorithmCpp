@@ -1,0 +1,3 @@
+﻿  section_5.cpp
+C:\Users\bảo\OneDrive\Máy tính\algorithm\section_5\section_5\section_5.cpp(15,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  section_5.vcxproj -> C:\Users\bảo\OneDrive\Máy tính\algorithm\section_5\x64\Debug\section_5.exe
